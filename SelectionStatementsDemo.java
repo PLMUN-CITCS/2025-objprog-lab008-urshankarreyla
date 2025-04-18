@@ -1,5 +1,6 @@
 public class SelectionStatementsDemo {
     public static void main(String[] args) {
+int studentScore = 82;
 
 if (studentScore >= 60) {
    System.out.println("You passed the exam!");
